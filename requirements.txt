@@ -5,4 +5,4 @@ plotly
 requests
 prophet
 plotly.express
-newsapi
+newsapi-python
