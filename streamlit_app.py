@@ -1,13 +1,3 @@
-git add requirements.txt
-git commit -m "Added plotly to requirements"
-git push origin main
-
-source /home/adminuser/venv/bin/activate  # Adjust the path if needed
-pip install newsapi-python
-
--name: Install dependencies
-run: pip install -r requirements.txt
-
 import streamlit as st
 import yfinance as yf
 import pandas as pd
