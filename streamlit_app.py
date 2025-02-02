@@ -1,3 +1,7 @@
+git add requirements.txt
+git commit -m "Added plotly to requirements"
+git push origin main
+
 import streamlit as st
 import yfinance as yf
 import pandas as pd
