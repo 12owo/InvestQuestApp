@@ -6,4 +6,3 @@ requests
 prophet
 plotly.express
 newsapi
-NewsApiClient
