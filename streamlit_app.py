@@ -1,5 +1,5 @@
 #git add requirements.txt
-git commit -m "Added plotly to requirements"
+#git commit -m "Added plotly to requirements"
 #git push origin main
 
 import streamlit as st
