@@ -1,7 +1,11 @@
+git add requirements.txt
+git commit -m "Added plotly to requirements"
+git push origin main
+
 streamlit
 yfinance
 pandas
-plotly.py
+plotly
 requests
 prophet
 plotly.express
