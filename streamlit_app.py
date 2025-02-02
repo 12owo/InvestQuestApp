@@ -5,7 +5,7 @@
 #source /home/adminuser/venv/bin/activate  # Adjust the path if needed
 #!pip install newsapi-python
 
- name: Install dependencies
+ -name: Install dependencies
   run: pip install -r requirements.txt
 
 import streamlit as st
