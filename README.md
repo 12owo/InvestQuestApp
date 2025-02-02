@@ -1,9 +1,6 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 📈 InvestQuest App 📉
 
-Description of the app ...
+Let's go on the quest to invest!
 
 ## Demo App
 
