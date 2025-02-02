@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.express as px
 import requests
 from prophet import Prophet
-import plotly.graph_objects.Figure as go
+import plotly.graph_objects as go
 from newsapi import NewsApiClient
 
 
