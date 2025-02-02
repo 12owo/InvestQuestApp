@@ -4,5 +4,5 @@ pandas
 plotly.express
 requests
 prophet
-plotly.graph_objs
+plotly
 newsapi
