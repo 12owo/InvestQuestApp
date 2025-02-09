@@ -152,11 +152,10 @@ elif st.session_state['logged_in']:
         fig = px.line(data, x="Date", y="Close",title="")
         fig.update_xaxes(title="Date", rangeslider_visible=True)
         fig.update_yaxes(title="Price (USD)")
-        fig.update_layout(title_text=None)  # or title_text=None
+        fig.update_layout(title_text=None)  # Collapsing the title of the graph
+
         # Display the chart
         st.plotly_chart(fig)
-
-
 
         # News fetching for selected ticker
         st.subheader(f"Latest News for {selected_ticker}")
